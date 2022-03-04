@@ -1,0 +1,5 @@
+Wood;1000;5
+Metal profile;2000;10
+Plastic profile;500;4
+Paint;1000;3
+Varnish;1000;5

@@ -1,0 +1,136 @@
+[
+  {
+    "Name": "Wood Baguettes Size:78x70x2400mm",
+    "Item": [
+      {
+        "Name": "Wood",
+        "Quantity": 7
+      },
+      {
+        "Name": "Varnish",
+        "Quantity": 3
+      }
+    ]
+
+
+  },
+  {
+    "Name": "Wood Baguettes Size:60x69x2400mm",
+    "Item": [
+      {
+        "Name": "Wood",
+        "Quantity": 5
+      },
+      {
+        "Name": "Varnish",
+        "Quantity": 3
+      }
+    ]
+
+
+  },
+  {
+    "Name": "Wood Baguettes Size:60x60x2000mm",
+    "Item": [
+      {
+        "Name": "Wood",
+        "Quantity": 4
+      },
+      {
+        "Name": "Varnish",
+        "Quantity": 2
+      }
+    ]
+
+
+  },
+  {
+    "Name": "Wood Baguettes Size:40x40x2000mm",
+    "Item": [
+      {
+        "Name": "Wood",
+        "Quantity": 3
+      },
+      {
+        "Name": "Varnish",
+        "Quantity": 2
+      }
+    ]
+
+
+  },
+  {
+    "Name": "Metal Baguettes Size:78x70x2400mm",
+    "Item": [
+      {
+        "Name": "Metal profile",
+        "Quantity": 7
+      },
+      {
+        "Name": "Varnish",
+        "Quantity": 2
+      }
+    ]
+
+
+  },
+  {
+    "Name": "Metal Baguettes Size:60x69x2400mm",
+    "Item": [
+      {
+        "Name": "Metal profile",
+        "Quantity": 6
+      },
+      {
+        "Name": "Varnish",
+        "Quantity": 2
+      }
+    ]
+
+
+  },
+  {
+    "Name": "Metal Baguettes Size:40x37x1800mm",
+    "Item": [
+      {
+        "Name": "Metal profile",
+        "Quantity": 2
+      },
+      {
+        "Name": "Varnish",
+        "Quantity": 1
+      }
+    ]
+
+
+  },
+  {
+    "Name": "Plastic Baguettes Size:78x70x2400mm",
+    "Item": [
+      {
+        "Name": "Plastic profile",
+        "Quantity": 7
+      },
+      {
+        "Name": "Paint",
+        "Quantity": 3
+      }
+    ]
+
+
+  },
+  {
+    "Name": "Plastic Baguettes Size:60x69x2400mm",
+    "Item": [
+      {
+        "Name": "Plastic profile",
+        "Quantity": 5
+      },
+      {
+        "Name": "Paint",
+        "Quantity": 3
+      }
+    ]
+  }
+
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Wood",
+    "Quatinty": 1100,
+    "Price": 55
+  },
+  {
+    "Name": "Varnish",
+    "Quatinty": 5000,
+    "Price": 10
+  },
+  {
+    "Name": "Metal profile",
+    "Quatinty": 1000,
+    "Price": 100
+  },
+  {
+    "Name": "Plastic profile",
+    "Quatinty": 2200,
+    "Price": 25
+  },
+  {
+    "Name": "Paint",
+    "Quatinty": 6500,
+    "Price": 7
+  }
+]
